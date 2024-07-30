@@ -11,7 +11,7 @@ public class ideasoft extends BaseTest
     ideasoftPage ideasoftPage;
 
 
-    @Test(testName = "ideasoftt")
+    @Test(testName = "ideasofttt")
     void Test1()
     {
         ideasoftPage = new ideasoftPage(getDriver());
